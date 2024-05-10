@@ -19,7 +19,7 @@
 17. history command:  is useful for reviewing past commands. also use to display the current user's command or bash history. ![Screenshot_2024-05-10_12-19-51](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/d6db54dd-a7b2-4849-9980-c335fa16b7b9)
 18. mv command: "move" is used to move or rename files and directories. to move ![Screenshot_2024-05-10_12-38-50](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/c50e70dd-e2ac-4ee6-a145-5480034e7806)! to rename [Screenshot_2024-05-10_12-53-09](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/856d4454-7cbe-4e0e-8e74-2b9252f84fa3)
 19. cp command: "copy" is used to copy files and directories from one location to another.![Screenshot_2024-05-10_13-06-59](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/c1ba2bdb-dac7-4e9c-af73-090d82d643f2)
-20. ifconfig command: Display network details used to configure and display network interface parameters. such as IP addresses, MAC addresses, network masks, and more. ![Screenshot_2024-05-10_13-11-38](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/2416cdb6-caed-4de2-a37f-ddc3f05107aa)
+20. ifconfig command: Display network details used to configure and display network interface parameters. such as IP addresses, MAC addresses, network masks, and more.![Screenshot_2024-05-10_13-19-35](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/82c4a117-0120-4bcb-a3fe-715213378e06)
 
 
 
