@@ -20,6 +20,9 @@
 18. mv command: "move" is used to move or rename files and directories. to move ![Screenshot_2024-05-10_12-38-50](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/c50e70dd-e2ac-4ee6-a145-5480034e7806)! to rename [Screenshot_2024-05-10_12-53-09](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/856d4454-7cbe-4e0e-8e74-2b9252f84fa3)
 19. cp command: "copy" is used to copy files and directories from one location to another.![Screenshot_2024-05-10_13-06-59](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/c1ba2bdb-dac7-4e9c-af73-090d82d643f2)
 20. ifconfig command: Display network details used to configure and display network interface parameters. such as IP addresses, MAC addresses, network masks, and more.![Screenshot_2024-05-10_13-19-35](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/82c4a117-0120-4bcb-a3fe-715213378e06)
+21. wc command: "word count" is used to display the count of lines, words, and characters in a file or standard input.![Screenshot_2024-05-10_13-41-42](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/e0cafb58-3d69-4c77-b5de-70083304ba74)
+22. diff command: "difference" is used to compare the contents of two files line by line and display the differences between them.![Screenshot_2024-05-10_13-53-10](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/d800a40b-5db6-42b0-9803-8831288b2e79)
+23. 
 
 
 
@@ -27,7 +30,9 @@
 
 
 
-cat 
+
+
+
 
 
 
