@@ -13,6 +13,21 @@
 11. cat command: It is primarily used to display the contents of one or more files to the terminal.![Screenshot_2024-05-10_11-16-19](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/a5360566-7668-47a8-b5d7-a68b129c63c6)
 12. rm command: "remove" is used to remove or delete files and directories from the file system.![Screenshot_2024-05-10_11-26-04](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/8e3ae869-88a1-471c-8d71-ce07466512f6)
 13. sort command: is used to sort the lines of text files alphabetically or numerically.![Screenshot_2024-05-10_11-37-19](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/94b94da7-da08-43ff-99f6-5991380fdd9c)
+14.uptime command: displays how long the system has been running, along with some additional information about the system's current status, such as the current time, the number of logged-in users, and the system load averages  [Screenshot_2024-05-10_12-04-33](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/6ae229ee-e705-42d3-91ad-60c61af89201)
+15. users command: displays the list of usernames of all the users who are currently logged in to the system.![Screenshot_2024-05-10_12-09-49](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/bd296540-ec72-4cbd-8d26-78d7bb08ae80)
+16. free command: display information about the system's memory usage. It provides details such as total memory, used memory, free memory, shared memory, buffers, and cache.![Screenshot_2024-05-10_12-16-09](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/bcbb4951-0648-472a-b9c9-8fbdaf841600)
+17. history command:  is useful for reviewing past commands. also use to display the current user's command or bash history. ![Screenshot_2024-05-10_12-19-51](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/d6db54dd-a7b2-4849-9980-c335fa16b7b9)
+18. mv command: "move" is used to move or rename files and directories. ![Screenshot_2024-05-10_12-38-50](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/c50e70dd-e2ac-4ee6-a145-5480034e7806)![Screenshot_2024-05-10_12-53-09](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/856d4454-7cbe-4e0e-8e74-2b9252f84fa3)
+19. cp command: "copy" is used to copy files and directories from one location to another.![Screenshot_2024-05-10_13-06-59](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/c1ba2bdb-dac7-4e9c-af73-090d82d643f2)
+20. ifconfig command: Display network details used to configure and display network interface parameters. such as IP addresses, MAC addresses, network masks, and more. ![Screenshot_2024-05-10_13-11-38](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/2416cdb6-caed-4de2-a37f-ddc3f05107aa)
+
+
+
+
+
+
+
+cat 
 
 
 
