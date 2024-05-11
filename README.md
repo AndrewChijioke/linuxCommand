@@ -24,7 +24,7 @@
 22. diff command: "difference" is used to compare the contents of two files line by line and display the differences between them.![Screenshot_2024-05-10_13-53-10](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/d800a40b-5db6-42b0-9803-8831288b2e79)
 23. netstat command: It's used to display various network-related information such as active network connections, routing tables, interface statistics, masquerade connections, and multicast memberships.![Screenshot_2024-05-11_09-42-01](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/238951d6-1fab-4a8c-bd40-0d827d6b0095)
 24. hostname command: is used to display or set the hostname of the system. ![Screenshot_2024-05-11_10-01-17](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/e5706419-0abb-41d3-859d-7e3c37475cc9)
-25. du command: "disk usage" is used to estimate file space usage. ![Screenshot_2024-05-11_10-05-36](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/3c12000d-e580-4daf-89d7-d4124e9238f4)
+25. du command: "disk usage" is used to estimate file space usage.![Screenshot_2024-05-11_10-05-36](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/3c12000d-e580-4daf-89d7-d4124e9238f4)
 
 
 
