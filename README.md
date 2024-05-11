@@ -22,7 +22,8 @@
 20. ifconfig command: Display network details used to configure and display network interface parameters. such as IP addresses, MAC addresses, network masks, and more.![Screenshot_2024-05-10_13-19-35](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/82c4a117-0120-4bcb-a3fe-715213378e06)
 21. wc command: "word count" is used to display the count of lines, words, and characters in a file or standard input.![Screenshot_2024-05-10_13-41-42](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/e0cafb58-3d69-4c77-b5de-70083304ba74)
 22. diff command: "difference" is used to compare the contents of two files line by line and display the differences between them.![Screenshot_2024-05-10_13-53-10](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/d800a40b-5db6-42b0-9803-8831288b2e79)
-23. 
+23. netstat command: It's used to display various network-related information such as active network connections, routing tables, interface statistics, masquerade connections, and multicast memberships.![Screenshot_2024-05-11_09-42-01](https://github.com/AndrewChijioke/linuxCommand/assets/169144156/238951d6-1fab-4a8c-bd40-0d827d6b0095)
+
 
 
 
